@@ -1,60 +1,84 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:111827,50:312e81,100:2563eb&text=Rahul%20G%20Naik&fontColor=ffffff&fontSize=42&fontAlignY=36&animation=fadeIn&desc=AI%20%26%20ML%20Engineering%20Student&descAlignY=56&descSize=18" alt="Animated header for Rahul G Naik" width="100%"/>
+  <!-- Animated banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:4f46e5,100:7c3aed&height=180&section=header&animation=fadeIn" width="100%" alt="Blue and purple animated banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Exploring+AI+and+Machine+Learning;Learning+Python+and+Web+Development;Building+Practical+Projects" alt="Typing animation: Exploring AI and machine learning, learning Python and web development, building practical projects" />
-</a>
+  <!-- Name -->
+  <h1>Hi, I'm Rahul G Naik 👋</h1>
 
-<p>
-  <a href="https://github.com/rahulnaik2702"><img src="https://img.shields.io/badge/GitHub-rahulnaik2702-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <a href="https://www.linkedin.com/in/rahulnaik2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
-</p>
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=First-Year+BTech+AI%2FML+Student;Python+Developer+in+Progress;Building+Practical+Projects;Exploring+AI+%26+Machine+Learning" alt="Typing animation" />
+  </a>
+
+  <p>
+    <a href="https://github.com/rahulnaik2702">
+      <img src="https://img.shields.io/badge/GitHub-rahulnaik2702-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/rahulnaik2">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+  </p>
 
 </div>
 
-## 👋 About Me
+---
 
-I'm **Rahul G Naik**, a first-year BTech student in **Artificial Intelligence and Machine Learning**. I'm exploring AI, machine learning, and software development while turning ideas into practical projects.
+## 👨‍💻 About Me
 
-- 🌱 Currently developing my programming and web development skills.
-- 🧠 Interested in AI, machine learning, and building useful software.
-- 🛠️ Learn by experimenting with tools and creating projects.
-- 🎯 Working toward stronger technical foundations for a future in AI/ML engineering.
+I'm **Rahul G Naik**, a first-year BTech student in **Artificial Intelligence and Machine Learning**.
 
-## 🧰 Skills & Tools
+- 🌱 Currently learning Python and web development.
+- 🤖 Exploring artificial intelligence and machine learning.
+- 🛠️ Building practical projects to improve my programming skills.
+- 🎯 Goal: Develop useful software and AI-powered applications.
 
-**Languages and web technologies**
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 💻 Skills & Tools
 
-**Tools and platforms**
+<div align="center">
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-6D5EF5?style=for-the-badge)
+  <img src="https://skillicons.dev/icons?i=python,html,css,vscode,git,github" alt="Python, HTML, CSS, VS Code, Git and GitHub" />
 
-## 🚀 Projects
+  <br/><br/>
 
-Here are some of the projects I've worked on. Visit each repository for its source code and current details.
+  <img src="https://img.shields.io/badge/Antigravity-AI%20Development-7C3AED?style=for-the-badge" alt="Antigravity" />
 
-| Project | Repository |
-|---|---|
-| **StudentHub** | [View repository](https://github.com/rahulnaik2702/studenthub) |
-| **File Management System** | [View repository](https://github.com/rahulnaik2702/FILE-MANAGER) |
-| **Student Management System** | [View repository](https://github.com/rahulnaik2702/Stud-Management-System) |
-| **Personal Portfolio** | [View repository](https://github.com/rahulnaik2702/MyPortfolio) |
+</div>
 
-## 🔗 Connect With Me
+---
 
-- **GitHub:** [@rahulnaik2702](https://github.com/rahulnaik2702)
-- **LinkedIn:** [linkedin.com/in/rahulnaik2](https://www.linkedin.com/in/rahulnaik2)
+## 🚀 My Projects
+
+| Project | Description | Repository |
+|---|---|---|
+| **StudentHub** | Student portfolio and information management | [View Project](https://github.com/rahulnaik2702/studenthub) |
+| **File Management System** | A project for managing files | [View Project](https://github.com/rahulnaik2702/FILE-MANAGER) |
+| **Student Management System** | Student information management | [View Project](https://github.com/rahulnaik2702/Stud-Management-System) |
+| **Personal Portfolio** | Personal portfolio website | [View Project](https://github.com/rahulnaik2702/MyPortfolio) |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulnaik2702&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=rahulnaik2702&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Learning continuously. Building consistently. Improving one project at a time.</sub>
+
+  ### 💜 Learning, Building, Improving.
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:4f46e5,100:7c3aed&height=100&section=footer" width="100%" alt="Blue and purple footer banner" />
+
 </div>
